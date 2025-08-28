@@ -6,6 +6,12 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Play Now!](https://ultimate-pong-game-tltd.vercel.app/)**
+
+---
+
 ## ✨ Features
 
 - **Animated Ball Trail:** Glowing, fading trail for the ball.
