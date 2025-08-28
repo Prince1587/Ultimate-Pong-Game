@@ -12,6 +12,20 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 ---
 
+## 🛡️ Deployment Proof
+
+The project is successfully deployed and publicly accessible.
+
+| Platform | URL                                                                                           | Status     |
+|----------|----------------------------------------------------------------------------------------------|------------|
+| Vercel   | [https://ultimate-pong-game-tltd.vercel.app/](https://ultimate-pong-game-tltd.vercel.app/)   | ✅ Online  |
+
+**Screenshot of Live Deployment:**
+
+<img src="Deployment.jpg" alt="Deployment Screenshot" width="700"/>
+
+---
+
 ## ✨ Features
 
 - **Animated Ball Trail:** Glowing, fading trail for the ball.
