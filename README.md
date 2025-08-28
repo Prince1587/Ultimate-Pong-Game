@@ -56,9 +56,7 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 ## 📸 Screenshots
 
-> _You can add screenshots here by dragging them into your repo and updating the links below._
-
-![Screenshot Example](Screenshot 2025-08-28 093605.jpg)
+Screenshot 2025-08-28 093605.jpg
 
 ---
 
