@@ -56,8 +56,7 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 ## 📸 Screenshots
 
-Screenshot 2025-08-28 093605.jpg
-
+<img src="Screenshot 2025-08-28 093605.jpg" alt="Animated Pong Game Screenshot" width="700"/>
 ---
 
 ## 🧩 Customization
