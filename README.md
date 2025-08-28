@@ -34,7 +34,7 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 1. **Download or Clone**
     ```bash
-    git clone https://github.com/yourusername/pong-animated.git
+    git clone https://github.com/Prince1587/Ultimate-Pong-Game.git
     cd pong-animated
     ```
     Or just download and extract the ZIP.
@@ -58,7 +58,7 @@ Perfect as a learning project for canvas games, animation, and simple game AI.
 
 > _You can add screenshots here by dragging them into your repo and updating the links below._
 
-![Screenshot Example](screenshot.png)
+![Screenshot Example](Screenshot 2025-08-28 093605.jpg)
 
 ---
 
@@ -81,5 +81,5 @@ MIT License
 
 ## 🙏 Credits
 
-- Designed & developed by [Your Name or GitHub Username]
+- Designed & developed by [Prince Kumar || Prince1587]
 - Inspired by classic Pong and enhanced for the web
